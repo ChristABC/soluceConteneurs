@@ -20,7 +20,7 @@ class MainProgram
         
        //Affichage des valeurs du tableau
 
-        Console.WriteLine("Voici les valeurs de otre tableau. ");
+        Console.WriteLine("Voici les valeurs de votre tableau: ");
         
         for (int i = 0; i < tab.Length; i++)
         {
